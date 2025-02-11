@@ -1,0 +1,6 @@
+dagster
+dagster-webserver
+pandas
+requests
+python-dotenv
+google-cloud-bigquery

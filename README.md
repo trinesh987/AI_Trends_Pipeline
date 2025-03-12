@@ -1,4 +1,4 @@
-# AI Trends Data Pipeline 🚀
+# AI Trends Data Pipeline 
 
 This repository contains an **AI Trends Data Pipeline** built using **Dagster** to automate the extraction, transformation, and loading (ETL) of AI-related news articles into **BigQuery**.
 
